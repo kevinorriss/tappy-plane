@@ -1,6 +1,6 @@
 {
   "name": "@kevinorriss/tappy-plane",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/game.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack/base.js --open"
