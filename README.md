@@ -4,7 +4,7 @@ Tappy plane is a clone of the popular Flappy Bird game, created in the Phaser HT
 
 A simple game created to experiment with Phaser games in [React](https://www.npmjs.com/package/react).
 
-![Tappy Plane](cover.png)
+![Tappy Plane](https://github.com/kevinorriss/tappy-plane/blob/master/cover.png?raw=true)
 
 ## How to play
 Simply click or tap anywhere on the game scene to make the plane ascend and try to fly safely between as many rocks as you can.
